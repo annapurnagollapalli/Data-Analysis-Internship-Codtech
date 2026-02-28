@@ -20,7 +20,9 @@ This repository contains tasks completed during my Data Analysis Internship at C
 ## 🔹 Task 4 – Sentiment Analysis (NLP)
 - Performed sentiment analysis on IMDB dataset  
 - Used TF-IDF and Logistic Regression  
-- Achieved good model accuracy  
+- Achieved good model accuracy
+- Dataset: IMDB Movie Reviews Dataset (public dataset)
 
 ## 🛠 Tools & Technologies
 Python, Pandas, Dask, Scikit-learn, Tableau Public, Jupyter Notebook, NLP
+
